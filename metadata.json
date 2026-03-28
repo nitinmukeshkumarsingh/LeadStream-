@@ -1,0 +1,7 @@
+{
+  "name": "LeadStream",
+  "description": "A dedicated, distraction-free mobile application that connects directly to a user's Gmail account to monitor and notify them only about selected business inquiries.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
